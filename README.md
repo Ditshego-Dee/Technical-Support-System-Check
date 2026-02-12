@@ -39,3 +39,7 @@
 
 ### Network Enabled
 ![Network Enabled](network_enabled.png)
+
+### IP Configuration (ipconfig)
+![IPConfig](ipconfig.png)
+
