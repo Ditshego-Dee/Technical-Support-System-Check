@@ -29,13 +29,17 @@
 - Network enabled
   
 ### System Information
-![System Info](system_info.png)
+![System Info](<img width="1484" height="755" alt="system_info" src="https://github.com/user-attachments/assets/fb77d579-5702-41b5-84f1-ebed0adcbf48" />
+)
 
 ### Network Status
-![Network Status](network_status.png)
+![Network Status](<img width="1600" height="853" alt="Network_status" src="https://github.com/user-attachments/assets/6ec9e25d-e716-477c-abf4-620039b6440d" />
+)
 
 ### Network Disabled
-![Network Disabled](network_disabled.png)
+![Network Disabled](<img width="1132" height="607" alt="network_disabled" src="https://github.com/user-attachments/assets/db01cc6a-66db-4ffb-94eb-e35315a7bf46" />
+)
 
 ### Network Enabled
-![Network Enabled](network_enabled.png)
+![Network Enabled](<img width="1126" height="571" alt="network_enabled" src="https://github.com/user-attachments/assets/c5419a09-0932-426d-850d-53860b1ea5c1" />
+)
